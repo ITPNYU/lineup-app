@@ -1,1 +1,3 @@
 # lineup-app
+
+This app provides a process for managing class proposals through various stages, from initial consideration to final outcomes. It starts with a proposal that can either be accepted, rejected, or sent back for revision. If accepted, the class can move to stages like being scheduled, published, or running, depending on further actions taken. If rejected, it leads to a final state of being "Dead." Throughout its lifecycle, the class can also be deferred, evaluated, or redressed if necessary. Ultimately, the process ensures that classes are carefully managed and can transition through multiple states based on decisions made along the way.
